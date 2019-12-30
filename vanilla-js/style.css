@@ -1,0 +1,12 @@
+body {
+  padding-top: 80px;
+}
+
+.form-centered {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+#warning p {
+  margin-bottom: 0;
+}
